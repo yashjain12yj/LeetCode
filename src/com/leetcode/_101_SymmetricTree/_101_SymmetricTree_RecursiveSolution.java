@@ -6,7 +6,7 @@ package com.leetcode._101_SymmetricTree;
  * Created on 11-02-2020
  */
 
-public class _101_SymmetricTree_recursive {
+public class _101_SymmetricTree_RecursiveSolution {
 
     public boolean isSymmetric(TreeNode root) {
         if (root == null) return true;
@@ -21,15 +21,5 @@ public class _101_SymmetricTree_recursive {
             return isSymmetricHelper(left.left, right.right) && isSymmetricHelper(left.right, right.left);
         }
         return left == right;
-    }
-
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
     }
 }
