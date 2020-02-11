@@ -8,7 +8,11 @@ import java.util.HashSet;
  * Created on 10-02-2020
  */
 
-public class _202_HappyNumber {
+/**
+ * Implemented with Set
+ * space(o(n))
+ */
+public class _202_HappyNumber_SetImpl {
     public static int getSumOfSquareOfDigits(int n) {
         int sum = 0;
         while (n > 0) {
