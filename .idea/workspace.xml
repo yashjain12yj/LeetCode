@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83693a31-1f0d-4b77-bc18-22e1580465a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCodeSolutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/_1047_RemoveAllAdjacentDuplicatesInString/_1047_RemoveAllAdjacentDuplicatesInString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/_137_SingleNumberII/_137_SingleNumberII_ExtraMemory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/leetcode/_137_SingleNumberII/_137_SingleNumberII_WithoutExtraMemory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="889db60a-fb79-4dca-a108-00e043715d6b" name="Ignore" comment="">
@@ -45,7 +45,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application._102_BinaryTreeLevelOrderTraversal_DFS">
+  <component name="RunManager" selected="Application._1047_RemoveAllAdjacentDuplicatesInString">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.Main" />
       <module name="LeetCodeSolutions" />
@@ -69,6 +69,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_1047_RemoveAllAdjacentDuplicatesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode._1047_RemoveAllAdjacentDuplicatesInString._1047_RemoveAllAdjacentDuplicatesInString" />
+      <module name="LeetCodeSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode._1047_RemoveAllAdjacentDuplicatesInString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_202_HappyNumber_SlowFastPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode._202_HappyNumber._202_HappyNumber_SlowFastPointer" />
       <module name="LeetCodeSolutions" />
@@ -84,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._1047_RemoveAllAdjacentDuplicatesInString" />
         <item itemvalue="Application._102_BinaryTreeLevelOrderTraversal_DFS" />
         <item itemvalue="Application._202_HappyNumber_SlowFastPointer" />
         <item itemvalue="Application.Main" />
@@ -106,7 +120,7 @@
       <workItem from="1581398633534" duration="9393000" />
       <workItem from="1581608075500" duration="4995000" />
       <workItem from="1582134700353" duration="3549000" />
-      <workItem from="1582644419990" duration="503000" />
+      <workItem from="1582644419990" duration="2615000" />
     </task>
     <task id="LOCAL-00001" summary="202 Happy Number Added">
       <created>1581334858249</created>
@@ -157,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582138291623</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Intellij Settings">
+      <created>1582645036401</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582645036401</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,37 +204,38 @@
     <MESSAGE value="101 Symmetric tree, iterative solution added" />
     <MESSAGE value="836 Rectangle Overlap added" />
     <MESSAGE value="102 Binary Tree Level Order Travelsal DFS solution added" />
-    <option name="LAST_COMMIT_MESSAGE" value="102 Binary Tree Level Order Travelsal DFS solution added" />
+    <MESSAGE value="Intellij Settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intellij Settings" />
   </component>
   <component name="WindowStateProjectService">
     <state x="322" y="52" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1581334033092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="322" y="52" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581334033092" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1582138289262">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1582645034327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582138289262" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582645034327" />
     <state x="465" y="266" key="GitRewordDialog" timestamp="1581430973423">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="465" y="266" key="GitRewordDialog/0.0.1366.728@0.0.1366.728" timestamp="1581430973423" />
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1582138254734">
+    <state width="1323" height="315" key="GridCell.Tab.0.bottom" timestamp="1582647137118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582138254734" />
-    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1582138254734">
+    <state width="1323" height="315" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582647137118" />
+    <state width="1323" height="315" key="GridCell.Tab.0.center" timestamp="1582647137118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582138254734" />
-    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1582138254734">
+    <state width="1323" height="315" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582647137118" />
+    <state width="1323" height="315" key="GridCell.Tab.0.left" timestamp="1582647137118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582138254734" />
-    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1582138254734">
+    <state width="1323" height="315" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582647137118" />
+    <state width="1323" height="315" key="GridCell.Tab.0.right" timestamp="1582647137118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582138254734" />
+    <state width="1323" height="315" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582647137118" />
     <state width="1323" height="214" key="GridCell.Tab.1.bottom" timestamp="1582138254738">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -246,10 +268,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="513" y="234" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1581334815616" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1582138296850">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1582645073879">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582138296850" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582645073879" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582644850806">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
