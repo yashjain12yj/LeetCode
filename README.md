@@ -13,3 +13,4 @@
 | 836 | Rectangle Overlap |[Question](https://leetcode.com/problems/rectangle-overlap/)| [Solution]()|
 | 1047 | Remove All Adjacent Duplicates In String |[Question](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [Solution](https://github.com/yashjain12yj/LeetCode/tree/master/src/com/leetcode/_1047_RemoveAllAdjacentDuplicatesInString)|
 | 1221 | Split a String in Balanced Strings |[Question](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [Solution](https://github.com/yashjain12yj/LeetCode/tree/master/src/com/leetcode/_1221_SplitaStringinBalancedStrings)|
+| 1323 | Maximun 69 Number |[Question](https://leetcode.com/problems/maximum-69-number/)| [Solution](https://github.com/yashjain12yj/LeetCode/tree/master/src/com/leetcode/_1323_Maximum69Number)|
